@@ -3,6 +3,5 @@ public class main {
    ///ali test 2
    //wuddup -dave
    /// this is what is up
-   
-   System.out.println("hello world");
+   //whats up- Richard
 }
